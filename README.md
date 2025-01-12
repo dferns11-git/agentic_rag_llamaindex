@@ -32,6 +32,3 @@ A sophisticated AI research assistant built using LlamaIndex that enables intell
 - Enhanced embedding model optimization
 - Domain-specific training
 - Expanded document set handling
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/42117245/89e7594c-cdbc-49bc-bd49-ec8349fd0417/paste.txt

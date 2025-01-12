@@ -1,5 +1,3 @@
-# agentic_rag_llamaindex
-
 # Multi-Document Agentic RAG Research Assistant
 
 ## Overview
